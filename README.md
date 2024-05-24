@@ -12,7 +12,7 @@ Eu pedi ao GPT um pequeno texto sobre a curiosidade no mundo desenvolvedor e tec
 Após isso fui ao D-ID selecionei o personagem, a voz e coloquei o pequeno texto.
 
 ## 🚀 Resultados
-![Vídeo final da atividade](Mistério dev.mp4)
+https://www.youtube.com/shorts/UZDSZqKJkhs
 
 ## 💭 Reflexão (Opcional)
 Fico encantado com a evolução e com as coisas que podemos fazer e ainda estamos no começo dessa "era".
